@@ -28,7 +28,6 @@ function saveHikeDocumentIDAndRedirect() {
 }
 
 function populateReviews() {
-    console.log("test");
     let hikeCardTemplate = document.getElementById("reviewCardTemplate");
     let hikeCardGroup = document.getElementById("reviewCardGroup");
 
